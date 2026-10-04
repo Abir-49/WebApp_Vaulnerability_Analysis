@@ -5,3 +5,5 @@ __pycache__/
 .env
 reports/
 logs/
+README.md
+BEGINNER_GUIDE.md
